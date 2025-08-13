@@ -1,0 +1,16 @@
+{
+  "name": "aula_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula_02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aula_02.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
