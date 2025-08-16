@@ -28,4 +28,4 @@ print(listing)
 
 strSplit: str = "Hugo de Lelis"
 print(strSplit.split())
-print(help(listing))
+# print(help(listing))
